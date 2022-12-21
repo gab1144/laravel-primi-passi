@@ -20,4 +20,20 @@ body {
     border-radius: 20px;
     text-align: center;
     padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.button {
+    display: block;
+    width: fit-content;
+    padding: 15px;
+    margin-top: 20px;
+    background-color: blue;
+    color: white;
+    text-transform: uppercase;
+    border-radius: 10px;
+    text-decoration: none;
 }

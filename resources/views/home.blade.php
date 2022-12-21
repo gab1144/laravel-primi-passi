@@ -11,6 +11,7 @@
     <div class="container">
         <h1>Hello world</h1>
         <h2>{{ $saluto }} {{ $utente }}!</h2>
+        <a href="/about-us" class="button">About Us</a>
     </div>
 </body>
 </html>
